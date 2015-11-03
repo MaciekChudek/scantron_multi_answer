@@ -1,0 +1,5 @@
+C:\Documents and Settings\root\Desktop\UBC\programming\c#\SharpDevelop Projects\ScantronMulti\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\root\Desktop\UBC\programming\c#\SharpDevelop Projects\ScantronMulti\bin\Debug\ScantronMulti.exe
+C:\Documents and Settings\root\Desktop\UBC\programming\c#\SharpDevelop Projects\ScantronMulti\bin\Debug\ScantronMulti.pdb
+C:\Documents and Settings\root\Desktop\UBC\programming\c#\SharpDevelop Projects\ScantronMulti\obj\Debug\ScantronMulti.exe
+C:\Documents and Settings\root\Desktop\UBC\programming\c#\SharpDevelop Projects\ScantronMulti\obj\Debug\ScantronMulti.pdb
